@@ -1,6 +1,8 @@
 {
   "current": {
     "storefront_hostname": "nextjs-shopify-commerce-rosy.vercel.app",
+    "checkout_header_image": "shopify:\/\/shop_images\/online-shopping.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/DreamShaper_v7_Printable_sticker_about_minimal_cute_cartoon_an_3.jpg",
     "content_for_index": [
 
     ]
